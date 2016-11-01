@@ -131,6 +131,7 @@ insert 태그 추가
 ```
 
 저장된 것을 확인한다.
+![](https://goo.gl/RCWPyw)
 
 
 
