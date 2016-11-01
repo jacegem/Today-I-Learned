@@ -8,15 +8,9 @@ rmap.put\("file\_size", size\);
 rmap.put\("file\_type", type\);
 ```
 
-
-
 UMap map = commonFileService.selectFileView\(rmap, model\);
 
- String file\_path = map.getStr\("FILE\_PATH"\);
+String file\_path = map.getStr\("FILE\_PATH"\);
 
- String real\_path = context.getRealPath\(""\)+file\_path;
-
-
-
-
+String real\_path = context.getRealPath\(""\)+file\_path;
 
