@@ -43,7 +43,7 @@ jQuery.uploadfile 플러그인을 사용중이므로 아래와 같이 설정합�
 ```javascript
 // 파일 업로드
 upload = $("#spreadRegistFile").uploadFile({
-	url : "/web/common/file/fileUploadDisk.json",
+	url : "/file/fileUploadDisk.json",
 	fileName : "file",
 	autoSubmit : false,
 	dragDropStr : '',
@@ -153,7 +153,7 @@ onclick="wutil.popup(seq, no)"
 ```
 
 ```javascript
-url : "/web/common/file/attachPop.do",
+url : "/file/attachPop.do",
 ```
 
 ### 동영상
