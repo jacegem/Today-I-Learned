@@ -10,6 +10,13 @@ rmap.put\("file\_type", type\);
 
 
 
+UMap map = commonFileService.selectFileView\(rmap, model\);
+
+ String file\_path = map.getStr\("FILE\_PATH"\);
+
+ String real\_path = context.getRealPath\(""\)+file\_path;
+
+
 
 
 
