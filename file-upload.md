@@ -73,9 +73,9 @@ upload = $("#spreadRegistFile").uploadFile({
 ## service 구현
 
 ```java
-public int insertAttachFileInfo(RMap rmap, ModelMap model) {
+public int insertFileInfo(RMap rmap, ModelMap model) {
 	rmap.put("user_id", rmap.getSession().getAttribute("user_id"));
-	return dao.insert("web.common.insertAttachFileInfo", rmap);
+	return dao.insert("web.common.insertFileInfo", rmap);
 }
 ```
 
@@ -117,7 +117,7 @@ insert 태그 추가
 	VALUES
 	(
 		#{file_seq}
-		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM FILE_INFO WHERE FILE_SEQ = #{file_seq})
+		, (SELECT COALESCE(MAX(FILE_NO),0)+1 FROM FILE_INFO WHERE FILE_SEQ = #{file_seq})
 		, #{file_size}
 		, #{file_type}
 		, #{original_file_name}
