@@ -139,6 +139,40 @@ insert 태그 추가
 
 ## 파일 불러오기
 
+조회시에, `original_file_name`을 가져오도록 수정. 
+화면 출력시에도 이름 변경해야 함.
+
+파일을 선택했을 때, 요청하는 부분을 수정하자.
+
+이미지의 경우 팝업 화면을 보여주고, 동영상의 경우 다운로드 되도록 처리한다.
+
+### 이미지
+
+```html
+onclick="wutil.popup(seq, no)"
+```
+
+```javascript
+url : "/web/common/file/attachPop.do",
+```
+
+### 동영상
+
+```html
+onclick="wutil.download(seq, no)"
+```
+
+```javascript
+window.location = "/web/common/file/fileDownload.do?seq=" + seq + "&no=" + no;
+```
+
+
+
+
+
+
+
+
 
 
 
