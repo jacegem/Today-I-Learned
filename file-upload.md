@@ -83,8 +83,8 @@ public int insertAttachFileInfo(RMap rmap, ModelMap model) {
 
 insert 태그 추가 
 ```xml
-<insert id="insertAttachFileInfo">
-		/* web.common.insertFile */
+<insert id="insertFileInfo">
+		/* web.common.insertFileInfo */
        ...
 </insert>
 ```
@@ -94,22 +94,22 @@ insert 태그 추가
 - #{file_size} 
 - #{file_type}
 - #{original_file_name}
-- #{attach_file_name}
-- #{attach_file_path}
+- #{file_name}
+- #{file_path}
 
 ```xml
 <!-- 파일 등록 -->
-<insert id="insertAttachFileInfo">
-	/* web.common.insertAttachFileInfo */
-	INSERT INTO ATTACH_FILE_INFO
+<insert id="insertFileInfo">
+	/* web.common.insertFileInfo */
+	INSERT INTO FILE_INFO
 	(
-		ATTACH_FILE_SEQ
-		, ATTACH_FILE_NO
+		FILE_SEQ
+		, FILE_NO
 		, FILE_SIZE
 		, FILE_TYPE
 		, ORIGINAL_FILE_NAME
-		, ATTACH_FILE_NAME
-		, ATTACH_FILE_PATH			
+		, FILE_NAME
+		, FILE_PATH			
 		, REG_USER
 		, REG_DATE
 		, LAST_DATE			
@@ -117,12 +117,12 @@ insert 태그 추가
 	VALUES
 	(
 		#{file_seq}
-		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM ATTACH_FILE_INFO WHERE ATTACH_FILE_SEQ = #{file_seq})
+		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM FILE_INFO WHERE ATTACH_FILE_SEQ = #{file_seq})
 		, #{file_size}
 		, #{file_type}
 		, #{original_file_name}
-		, #{attach_file_name}
-		, #{attach_file_path}
+		, #{file_name}
+		, #{file_path}
 		, #{user_id}
 		, TO_CHAR(NOW(), 'YYYYMMDDHH24MISS')
 		, TO_CHAR(NOW(), 'YYYYMMDDHH24MISS')			
