@@ -156,6 +156,18 @@ onclick="wutil.popup(seq, no)"
 url : "/file/attachPop.do",
 ```
 
+JSP에서 이미지를 요청한다. 
+
+```html
+<img src="<c:url value='/web/common/file/attachImage.do?seq=${seq}&no=${no}'/>" width="550" />
+```
+
+```java
+UMap umap = commonService.selectAttachFile(rmap, model);
+```
+
+
+
 ### 동영상
 
 ```html
