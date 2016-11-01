@@ -117,7 +117,7 @@ insert 태그 추가
 	VALUES
 	(
 		#{file_seq}
-		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM FILE_INFO WHERE ATTACH_FILE_SEQ = #{file_seq})
+		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM FILE_INFO WHERE FILE_SEQ = #{file_seq})
 		, #{file_size}
 		, #{file_type}
 		, #{original_file_name}
