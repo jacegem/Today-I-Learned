@@ -8,11 +8,8 @@ rmap.put\("file\_size", size\);
 rmap.put\("file\_type", type\);
 ```
 
-```java
 
-asdfds
 
-```
 
 
 
