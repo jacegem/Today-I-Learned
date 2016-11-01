@@ -163,7 +163,7 @@ onclick="wutil.download(seq, no)"
 ```
 
 ```javascript
-window.location = "/web/common/file/fileDownload.do?seq=" + seq + "&no=" + no;
+window.location = "/file/fileDownload.do?seq=" + seq + "&no=" + no;
 ```
 
 
