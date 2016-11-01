@@ -81,6 +81,21 @@ public int insertAttachFileInfo(RMap rmap, ModelMap model) {
 
 ## mybatis 구현
 
+insert 태그 추가 
+```xml
+<insert id="insertAttachFileInfo">
+		/* web.common.insertFile */
+       ...
+</insert>
+```
+
+저장할 대상
+- #{file_seq}
+- #{file_size} 
+- #{file_type}
+- #{original_file_name}
+- #{attach_file_name}
+- #{attach_file_path}
 
 
 
