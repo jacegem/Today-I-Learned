@@ -90,12 +90,14 @@ insert 태그 추가
 ```
 
 저장할 대상
+```
 - #{file_seq}
 - #{file_size} 
 - #{file_type}
 - #{original_file_name}
 - #{file_name}
 - #{file_path}
+```
 
 ```xml
 <!-- 파일 등록 -->
