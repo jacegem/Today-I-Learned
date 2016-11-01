@@ -97,8 +97,38 @@ insert 태그 추가
 - #{attach_file_name}
 - #{attach_file_path}
 
-
-
+```xml
+<!-- 파일 등록 -->
+<insert id="insertAttachFileInfo">
+	/* web.common.insertAttachFileInfo */
+	INSERT INTO ATTACH_FILE_INFO
+	(
+		ATTACH_FILE_SEQ
+		, ATTACH_FILE_NO
+		, FILE_SIZE
+		, FILE_TYPE
+		, ORIGINAL_FILE_NAME
+		, ATTACH_FILE_NAME
+		, ATTACH_FILE_PATH			
+		, REG_USER
+		, REG_DATE
+		, LAST_DATE			
+	)
+	VALUES
+	(
+		#{file_seq}
+		, (SELECT COALESCE(MAX(ATTACH_FILE_NO),0)+1 FROM ATTACH_FILE_INFO WHERE ATTACH_FILE_SEQ = #{file_seq})
+		, #{file_size}
+		, #{file_type}
+		, #{original_file_name}
+		, #{attach_file_name}
+		, #{attach_file_path}
+		, #{user_id}
+		, TO_CHAR(NOW(), 'YYYYMMDDHH24MISS')
+		, TO_CHAR(NOW(), 'YYYYMMDDHH24MISS')			
+	)		
+</insert>
+```
 
 
 
