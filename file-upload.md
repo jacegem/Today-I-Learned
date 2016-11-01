@@ -166,6 +166,27 @@ JSP에서 이미지를 요청한다.
 UMap umap = commonService.selectAttachFile(rmap, model);
 ```
 
+```java
+@RequestMapping("/attachImage.do")
+public void attachImage(RMap rmap, ModelMap model, HttpServletRequest request, HttpServletResponse response) throws IOException {
+	// 파일 경로를 조회한다. 
+	UMap umap = commonService.selectAttachFile(rmap, model);
+	
+	String attach_file_path = (String) umap.get("attach_file_path");		
+	System.out.println(attach_file_path);		
+
+	// 바이너리를 전송한다. 
+	try{
+		Path path = Paths.get(attach_file_path);
+		byte[] data = Files.readAllBytes(path);
+		response.setContentType("image/jpeg");
+		response.getOutputStream().write(data);
+	} catch(Exception e) {
+		e.printStackTrace();
+		logger.debug("파일 생성중 오류 발생",e);
+	}
+}
+```
 
 
 ### 동영상
