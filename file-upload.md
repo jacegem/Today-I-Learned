@@ -1,4 +1,4 @@
-file upload 를 구현한다.
+![](go.png)file upload 를 구현한다.
 
 DB 에 입력되는 것을 디스크에 저장되도록 수정한다.
 
