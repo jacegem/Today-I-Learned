@@ -203,21 +203,3 @@ window.location = "/file/fileDownload.do?seq=" + seq + "&no=" + no;
 
 Book 을 선택하고 clone 을 하면 로컬에서 수정 할 수 있습니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
