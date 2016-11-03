@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "tags"],
+    "plugins": ["adsense", "disqus", "theme-api", "tags", "navigator"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
