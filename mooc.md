@@ -1,5 +1,7 @@
 # MOOC
 
+tags: mooc, lec
+
 ```uml
 @startuml
 
