@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "page-treeview", "git-author", "uml"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "uml"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -12,11 +12,6 @@
         }
         , "theme-api": {
             "theme": "dark"
-        }
-        , "page-treeview": {
-            "style": "markdown",            
-            "minHeaderCount": "1",
-            "minHeaderDeep": "1"
         }
         , "git-author":{
               "position": "bottom",
