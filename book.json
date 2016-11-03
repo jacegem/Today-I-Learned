@@ -1,15 +1,12 @@
 {
-    "plugins": ["adsense", "disqus", "tags", "navigator"],
+    "plugins": ["adsense", "tags", "navigator"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
           "slot": "1959714988",
           "format": "auto",
           "element": ".page-inner h1"
-        }        
-        , "disqus": {
-            "shortName": "jacegem"
-        }        
+        }                
         , "tags": {
             "placement": "bottom"
         }               
