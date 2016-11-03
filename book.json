@@ -13,11 +13,6 @@
         , "theme-api": {
             "theme": "dark"
         }
-        , "git-author":{
-              "position": "bottom",
-              "modifyTpl": "Last modified by {user} {timeStamp}",
-              "createTpl": "Created by {user} {timeStamp}",
-              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
-        }     
+           
     }
 }
