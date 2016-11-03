@@ -6,13 +6,7 @@
           "slot": "1959714988",
           "format": "auto",
           "element": ".page-inner h1"
-        },
-        "adsense": {
-          "client": "ca-pub-9184373525576918",
-          "slot": "1959714988",
-          "format": "auto",
-          "element": ".page-inner section" 
-        }
+        }        
         , "disqus": {
             "shortName": "jacegem"
         }
