@@ -1,12 +1,22 @@
 {
     "plugins": ["adsense", "disqus", "theme-api"],
     "pluginsConfig": {
-        "adsense": {
+        "adsense": [{
           "client": "ca-pub-9184373525576918",
           "slot": "1959714988",
           "format": "auto",
           "element": ".page-inner h1"
-        }
+        },{
+          "client": "ca-pub-9184373525576918",
+          "slot": "1959714988",
+          "format": "auto",
+          "element": ".page-inner section"
+        ,{
+          "client": "ca-pub-9184373525576918",
+          "slot": "1959714988",
+          "format": "auto",
+          "element": ".page-inner h1"
+        }]
         , "disqus": {
             "shortName": "jacegem"
         }
