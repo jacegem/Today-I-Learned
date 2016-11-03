@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "page-toc", "ad"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "page-toc", "ad", "plantuml"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
