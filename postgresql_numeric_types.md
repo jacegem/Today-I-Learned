@@ -9,7 +9,7 @@ Numeric types consist of two-, four-, and eight-byte integers, four- and eight-b
 
 Table 8-2. Numeric Types
 
-| Name | Storage Size | Description | Range |
+| 명칭 | 저장 크기 | 설명 | 범위 |
 | -- | -- | -- | -- |
 | 0:2 | 1:2 | 2:2 | 3:2 |
 | 0:3 | 1:3 | 2:3 | 3:3 |
