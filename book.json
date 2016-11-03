@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "page-treeview", "git-author"],
+    "plugins": ["adsense", "disqus", "theme-api", "page-treeview", "git-author", "uml"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -14,8 +14,7 @@
             "theme": "dark"
         }
         , "page-treeview": {
-            "style": "markdown",
-            "copyright": "Copyright &#169; aleen42",
+            "style": "markdown",            
             "minHeaderCount": "1",
             "minHeaderDeep": "1"
         }
