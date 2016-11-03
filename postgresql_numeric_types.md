@@ -11,7 +11,7 @@ https://www.postgresql.org/docs/9.0/static/datatype-numeric.html
 
 | 명칭 | 저장 크기 | 설명 | 범위 |
 | -- | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 | 3:2 |
+| smallint | 2 bytes | small-range integer | -32768 to +32767 |
 | 0:3 | 1:3 | 2:3 | 3:3 |
 | 0:4 | 1:4 | 2:4 | 3:4 |
 | 0:5 | 1:5 | 2:5 | 3:5 |
@@ -21,7 +21,7 @@ https://www.postgresql.org/docs/9.0/static/datatype-numeric.html
 | 0:9 | 1:9 | 2:9 | 3:9 |
 | 0:10 | 1:10 | 2:10 | 3:10 |
 	 		
-smallint	2 bytes	small-range integer	-32768 to +32767
+			
 integer	4 bytes	typical choice for integer	-2147483648 to +2147483647
 bigint	8 bytes	large-range integer	-9223372036854775808 to 9223372036854775807
 decimal	variable	user-specified precision, exact	no limit
