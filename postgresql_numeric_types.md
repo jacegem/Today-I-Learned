@@ -3,7 +3,7 @@
 https://www.postgresql.org/docs/9.0/static/datatype-numeric.html
 
 
-# 8.1. Numeric Types
+# 8.1. 숫자 타입 Numeric Types
 
 Numeric types consist of two-, four-, and eight-byte integers, four- and eight-byte floating-point numbers, and selectable-precision decimals. Table 8-2 lists the available types.
 
