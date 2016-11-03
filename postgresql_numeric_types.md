@@ -3,11 +3,12 @@
 https://www.postgresql.org/docs/9.0/static/datatype-numeric.html
 
 
-# 8.1. 숫자 타입 Numeric Types
+# 8.1. 숫자 유형 Numeric Types
 
-Numeric types consist of two-, four-, and eight-byte integers, four- and eight-byte floating-point numbers, and selectable-precision decimals. Table 8-2 lists the available types.
+숫자 유형은 2, 4, 8 바이트 정수, 4, 8 바이트 부동 소수점 숫자, 선택 정밀도수로 구성되어 있습니다. 
+표 8-2 는 가능한 숫자 유형을 나열 하였습니다.
 
-Table 8-2. Numeric Types
+표 8-2. 숫자 유형
 
 | 명칭 | 저장 크기 | 설명 | 범위 |
 | -- | -- | -- | -- |
