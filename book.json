@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api"],
+    "plugins": ["adsense", "disqus", "theme-api", "footer"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -18,6 +18,9 @@
         }
         , "theme-api": {
             "theme": "dark"
+        }
+        ,  "layout": {
+          "footerPath" : "footer.html"
         }
     }
 }
