@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "tags", "navigator"],
+    "plugins": ["adsense", "disqus", "tags", "navigator"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -9,10 +9,7 @@
         }        
         , "disqus": {
             "shortName": "jacegem"
-        }
-        , "theme-api": {
-            "theme": "light"
-        }       
+        }        
         , "tags": {
             "placement": "bottom"
         }               
