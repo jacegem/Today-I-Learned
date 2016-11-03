@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "uml"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -13,6 +13,11 @@
         , "theme-api": {
             "theme": "dark"
         }
-     
+        , "git-author":{
+              "position": "bottom",
+              "modifyTpl": "Last modified by {user} {timeStamp}",
+              "createTpl": "Created by {user} {timeStamp}",
+              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+        }     
     }
 }
