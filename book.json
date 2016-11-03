@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "infinitescroll"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "toc-for-3"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
