@@ -19,5 +19,8 @@
               "createTpl": "Created by {user} {timeStamp}",
               "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
         }
+        , "tags": {
+            "placement": "bottom"
+        }
     }
 }
