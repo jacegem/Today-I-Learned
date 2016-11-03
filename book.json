@@ -23,7 +23,7 @@
             "placement": "bottom"
         }
         , "ad": {
-          "contentTop": "<div style=\"text-align: center;\"><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-9184373525576918\" data-ad-slot=\"1959714988\" data-ad-format=\"auto\"></ins></div>",
+          "contentTop": "%3Cdiv%20id%3D%22adBody%22%20style%3D%22text-align%3A%20center%3B%22%3E%3Cins%20class%3D%22adsbygoogle%22%20style%3D%22display%3Ablock%22%20data-ad-client%3D%22ca-pub-9184373525576918%22%20data-ad-slot%3D%221959714988%22%20data-ad-format%3D%22auto%22%3E%3C%2Fins%3E%3C%2Fdiv%3E",
           "contentBottom": "%3Cdiv%3EAds%20at%20the%20bottom%20of%20the%20page%3C/div%3E"
         }
     }
