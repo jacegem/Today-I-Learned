@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "page-treeview"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -13,11 +13,11 @@
         , "theme-api": {
             "theme": "dark"
         }
-        , "page-treeview": {
-            "style": "markdown",
-            "copyright": "Copyright &#169; aleen42",
-            "minHeaderCount": "1",
-            "minHeaderDeep": "1"
-        }        
+        , "git-author":{
+              "position": "bottom",
+              "modifyTpl": "Last modified by {user} {timeStamp}",
+              "createTpl": "Created by {user} {timeStamp}",
+              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+        }
     }
 }
