@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "collapsible-chapters"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "collapsible-chapters", "toc"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -23,6 +23,10 @@
             "placement": "bottom"
         }
         , "collapsible-chapters":{}
-       
+        , "toc": {
+            "addClass": true,
+            "className": "toc",
+            "maxDepth": 6
+        }
     }
 }
