@@ -1,5 +1,5 @@
 {
-    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags"],
+    "plugins": ["adsense", "disqus", "theme-api", "git-author", "tags", "collapsible-chapters"],
     "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
@@ -21,6 +21,7 @@
         }
         , "tags": {
             "placement": "bottom"
-        }           
+        }
+        , "collapsible-chapters":{}
     }
 }
