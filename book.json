@@ -20,7 +20,7 @@
             "theme": "dark"
         }
         ,  "layout": {
-          "footerPath" : "footer.html"
+          "footerPath" : "layouts/footer.html"
         }
     }
 }
