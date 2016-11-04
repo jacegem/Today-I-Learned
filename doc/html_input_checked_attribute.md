@@ -43,7 +43,12 @@ The checked attribute can also be set after the page load, with a JavaScript.
 
 
 ## HTML 과 XHTML 에서의 차이점
-In XHTML, attribute minimization is forbidden, and the checked attribute must be defined as <input checked="checked" />.
 
-Syntax
-<input checked>
+XHTML에서는 속성 최소화가 금지되어 있습니다.
+
+checked 속성은 `<input checked="checked" />` 와 같이 지정해야 합니다.
+
+
+## 문법
+
+`<input checked>`
