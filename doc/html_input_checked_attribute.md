@@ -29,7 +29,7 @@ checked 속성은 `<input type="checkbox">` 와 `<input type="radio">` 로 사�
 표의 수치는 완전히 특성을 지원하는 브라우저 버전을 나타냅니다.
 
 |Attribute|  ![](http://www.w3schools.com/images/compatible_chrome.gif) |  ![](http://www.w3schools.com/images/compatible_edge.gif) |   ![](http://www.w3schools.com/images/compatible_firefox.gif)    | ![](http://www.w3schools.com/images/compatible_safari.gif)   |  ![](http://www.w3schools.com/images/compatible_opera.gif)  |
-|--|--|--|--|--|
+|--|--|--|--|--|--|
 |checked|	1.0|	2.0|	1.0|	1.0|	1.0|
 
 
