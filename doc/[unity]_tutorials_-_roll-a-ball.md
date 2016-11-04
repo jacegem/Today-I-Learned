@@ -29,7 +29,7 @@ PROJECTS 들이 여러개 보이는데요. 그중에서 Beginner 난이도인 Ro
 
 ## GUI Text
 
-튜토리얼과 같이 GUI Text를 생성할 수 없습니다. ''Create Empty Object'' 후에 ''Component → Rendering → GUIText'' 를 추가해야 합니다
+튜토리얼과 같이 GUI Text를 생성할 수 없습니다. `Create Empty Object` 후에 `Component → Rendering → GUIText` 를 추가해야 합니다
 
 # Assets
 
