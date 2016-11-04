@@ -1,5 +1,7 @@
 # HTML `<input>` checked 속성
 
+http://www.w3schools.com/tags/att_input_checked.asp
+
 ## Example
 
 선택된 체크박스가 포함된 폼의 HTML 코드
