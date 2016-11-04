@@ -33,7 +33,8 @@ The checked attribute can also be set after the page load, with a JavaScript.
 
 표의 수치는 완전히 특성을 지원하는 브라우저 버전을 나타냅니다.
 
-|Attribute|
+|Attribute|  ![](http://www.w3schools.com/images/compatible_chrome.gif) |   |       |    |    |
+|--|--|--|--|--|
 |checked|	1.0|	2.0|	1.0|	1.0|	1.0|
 
 
