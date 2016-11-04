@@ -1,7 +1,7 @@
 # Summary
 
 * [UNREAL ENGINE](unreal_engine.md)
-* * [Postgresql Documentation](postgresql.md)
+* [Postgresql Documentation](postgresql.md)
    * [Postgresql Numeric Types](postgresql_numeric_types.md)
    * [Postgresql Mathematical Functions and Operators](postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](gitbook.md)
