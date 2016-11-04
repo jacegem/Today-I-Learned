@@ -41,7 +41,8 @@ MiniGame : 메인 화면
 
 ## Scripts
 ### CameraController
-<sxh c#>
+
+```cs
 using UnityEngine;
 using System.Collections;
 
@@ -59,10 +60,11 @@ public class CameraController : MonoBehaviour {
           transform.position = player.transform.position + offset;
      }
 }
-</sxh>
+```
 
 ### PlayerController
-<sxh c#>
+
+```cs
 using UnityEngine;
 using System.Collections;
 
@@ -105,10 +107,11 @@ public class PlayerController : MonoBehaviour {
      }
 
 }
-</sxh>
+```
 
 ### Rotate
-<sxh c#>
+
+```cs
 using UnityEngine;
 using System.Collections;
 
@@ -123,13 +126,12 @@ public class Rotate : MonoBehaviour {
           transform.Rotate (new Vector3 (15, 30, 45) * Time.deltaTime);
      }
 }
-</sxh>
+```
 
 # Build
 
 ## Android
 
-''File → Build Settings → Player Settings'' 에서 ''Bundle Indentifier''를 변경해야 합니다.
+`File → Build Settings → Player Settings'' 에서 ''Bundle Indentifier`를 변경해야 합니다.
 
-''SDK'' 경로 변경은 ''Edit → Preferences → External Tools'' 에서 할 수 있습니다. 
-****
+`SDK` 경로 변경은 `Edit → Preferences → External Tools` 에서 할 수 있습니다. 
