@@ -16,5 +16,5 @@
 * [교재:데이터베이스 성능향상을 위한 데이터모델링 실무](doc/ad50c7ac3a_b370_c774_d130_bca0_c774_c2a4_c131_b2a_.md)
 * [Tags](tags.md)
 * [GLOSSARY](glossary.md)
-* HTML <input> checked Attribute
+* [HTML <input> checked Attribute](doc/html_input_checked_attribute.md)
 
