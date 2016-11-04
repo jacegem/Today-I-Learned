@@ -4,7 +4,6 @@
 
 # adsense
 
-
 # puml
 plantUML
 ![](https://goo.gl/YDVmw9)
