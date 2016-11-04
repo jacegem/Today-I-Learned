@@ -1,5 +1,3 @@
-# GLOSSARY
-
 ## Term
 Definition for this term
 
