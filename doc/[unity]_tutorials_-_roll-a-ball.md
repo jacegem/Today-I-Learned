@@ -111,7 +111,7 @@ public class PlayerController : MonoBehaviour {
 
 ### Rotate
 
-```cs
+```c#
 using UnityEngine;
 using System.Collections;
 
