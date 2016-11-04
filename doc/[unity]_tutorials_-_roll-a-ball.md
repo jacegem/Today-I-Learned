@@ -64,7 +64,7 @@ public class CameraController : MonoBehaviour {
 
 ### PlayerController
 
-```cs
+```c#
 using UnityEngine;
 using System.Collections;
 
