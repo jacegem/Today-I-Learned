@@ -17,17 +17,11 @@
 
 `checked` 속성은 부울 속성입니다. 
 
-현재는, 그것이 <입력> 요소는 미리 선택해야 함을 지정하면 페이지가로드 될 때를 (확인). checked 속성은 <입력 유형 = "체크 박스">와 <입력 유형 = "라디오"> 사용할 수 있습니다. 검사 된 특성은 또한 자바 스크립트 페이지로드 후 설정 될 수있다.
+checked 가 존재하면 그것은 페이지가 로드될 때 `<input>`가 미리 선택된 상태를 나타냅니다. (checked) 
 
+checked 속성은 `<input type="checkbox">` 와 `<input type="radio">` 로 사용할 수 있습니다. 
 
-
-The checked attribute is a boolean attribute.
-
-When present, it specifies that an <input> element should be pre-selected (checked) when the page loads.
-
-The checked attribute can be used with <input type="checkbox"> and <input type="radio">.
-
-The checked attribute can also be set after the page load, with a JavaScript.
+또한 checked 속성은 자바스크립트를 통해서 페이지가 로드된 후에도 설정할 수 있습니다. 
 
 ## 브라우저 지원
 
