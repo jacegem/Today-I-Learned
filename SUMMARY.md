@@ -3,7 +3,7 @@
 * [UNREAL ENGINE](doc/unreal_engine.md)
    * [Android Works 설치](doc/android_works_c124_ce58.md)
 * [Postgresql Documentation](doc/postgresql_documentation.md)
-   * [Postgresql Numeric Types](postgresql_numeric_types.md)
+   * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
    * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](gitbook.md)
    * [Gitbook Plugin](gitbook_plugin.md)
