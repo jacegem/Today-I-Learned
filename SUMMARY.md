@@ -1,8 +1,10 @@
 # Summary
 
 * [Postgresql Documentation](postgresql.md)
-   * [Postgresql Numeric Types](postgresql_numeric_types.md)
-   * [Postgresql Mathematical Functions and Operators](postgresql_mathematical_functions_and_operators.md)
+  * [Postgresql Numeric Types](postgresql_numeric_types.md)
+  * [Postgresql Mathematical Functions and Operators](postgresql_mathematical_functions_and_operators.md)
+* [Gitbook]
+  * [Gitbook Plugin](gitbook_plugin.md)
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [file upload](file-upload.md)
