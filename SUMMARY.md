@@ -6,7 +6,7 @@
    * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
    * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](gitbook.md)
-   * [Gitbook Plugin](gitbook_plugin.md)
+   * [Gitbook Plugin](doc/gitbook_plugin.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
