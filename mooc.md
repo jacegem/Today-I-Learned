@@ -17,6 +17,12 @@ tags: mooc, lec
 @enduml
 ```
 
+{% plantuml %}
+Bob->Alice : hello
+{% endplantuml %}
+
+
+
 ```chart
 {
     "title": {
