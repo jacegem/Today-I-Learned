@@ -1,4 +1,5 @@
 {
+    "title": "TODAY I LEARNED"
     "plugins": ["adsense", "disqus", "tags", "navigator", "ad", "echarts", "puml"],
     "pluginsConfig": {
         "adsense": {
