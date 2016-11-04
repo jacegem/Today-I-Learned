@@ -1,7 +1,7 @@
 {
-    "title": "TODAY I LEARNED",
-    "plugins": ["adsense", "disqus", "tags", "navigator", "ad", "echarts", "puml"],
-    "pluginsConfig": {
+    "title": "TODAY I LEARNED"
+    , "plugins": ["adsense", "disqus", "tags", "navigator", "ad", "echarts", "puml"],
+    , "pluginsConfig": {
         "adsense": {
           "client": "ca-pub-9184373525576918",
           "slot": "1959714988",
