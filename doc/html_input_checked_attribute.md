@@ -1,2 +1,2 @@
-# HTML <input>\ checked Attribute
+# HTML <input\> checked Attribute
 
