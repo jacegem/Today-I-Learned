@@ -42,7 +42,7 @@ MiniGame : 메인 화면
 ## Scripts
 ### CameraController
 
-```cs
+```c#
 using UnityEngine;
 using System.Collections;
 
