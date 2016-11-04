@@ -15,6 +15,12 @@
 
 ## 정의 및 사용법
 
+`checked` 속성은 부울 속성입니다. 
+
+현재는, 그것이 <입력> 요소는 미리 선택해야 함을 지정하면 페이지가로드 될 때를 (확인). checked 속성은 <입력 유형 = "체크 박스">와 <입력 유형 = "라디오"> 사용할 수 있습니다. 검사 된 특성은 또한 자바 스크립트 페이지로드 후 설정 될 수있다.
+
+
+
 The checked attribute is a boolean attribute.
 
 When present, it specifies that an <input> element should be pre-selected (checked) when the page loads.
@@ -23,15 +29,20 @@ The checked attribute can be used with <input type="checkbox"> and <input type="
 
 The checked attribute can also be set after the page load, with a JavaScript.
 
-Browser Support
-The numbers in the table specify the first browser version that fully supports the attribute.
+## 브라우저 지원
 
-Attribute					
-checked	1.0	2.0	1.0	1.0	1.0
-Differences Between HTML 4.01 and HTML5
-NONE.
+표의 수치는 완전히 특성을 지원하는 브라우저 버전을 나타냅니다.
 
-Differences Between HTML and XHTML
+|Attribute|
+|checked|	1.0|	2.0|	1.0|	1.0|	1.0|
+
+
+## HTML 4.01 과 HTML5 에서의 차이점
+
+없음
+
+
+## HTML 과 XHTML 에서의 차이점
 In XHTML, attribute minimization is forbidden, and the checked attribute must be defined as <input checked="checked" />.
 
 Syntax
