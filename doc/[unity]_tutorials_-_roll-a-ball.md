@@ -16,7 +16,8 @@ PROJECTS 들이 여러개 보이는데요. 그중에서 Beginner 난이도인 Ro
 
 ## Scene
 
-^ Hierachy ^ 설명 ^
+| Hierachy | 설명 |
+|--|--|
 | Ground | 바닥, 배경|
 | Player | 움직이는 공|
 | Fill light | 아래에서 비추는 빛 |
