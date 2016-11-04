@@ -1,5 +1,4 @@
-# HTML `<input>` checked Attribute
-
+# HTML `<input>` checked 속성
 
 ## Example
 
