@@ -8,7 +8,7 @@
 * [Gitbook](gitbook.md)
    * [Gitbook Plugin](gitbook_plugin.md)
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
 * [MOOC](doc/mooc.md)
 * [AXISJ GRID PageNo](doc/axisj_grid_pageno.md)
