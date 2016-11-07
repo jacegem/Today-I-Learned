@@ -5,7 +5,7 @@
 언어에 따른 선언 방식
 
 
-|  |  |
+|언어 | 방식 |
 |--|--|
 |ASP|	<% Response.ContentType = "text/html" %>|
 |JSP|	<%@ page contentType="text/html" %>|
