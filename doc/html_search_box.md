@@ -4,7 +4,7 @@
 
 ## HTML Search Box
 
-On this page I'll show the 4 most common search box examples in use today. The HTML search box code is included so that you can easily use these examples to build a search form on your website.
+이 페이지에서 오늘 사용되는 4가지 가장 일반적인 검색 상자의 예를 보여드립니다. HTML 검색 창 코드가 포함되어 있으므로 당신은 이 예제들을 사용하여 당신의 웹 사이트에 검색 창을 구축할 수 있습니다. 
 
 The search bar for a website is typically located on the upper right side of the page so I've added a float right style and the search box itself generally follows a style like one of these four search examples listed below.
 
