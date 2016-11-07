@@ -2,7 +2,7 @@
 
 출처 : http://hbesthee.tistory.com/45
 
-## 언어에 따른 선언 방식
+# 언어에 따른 선언 방식
 
 |언어 | 방식 |
 |--|--|
@@ -11,7 +11,7 @@
 |PHP|	<?PHP header("Content-Type:text/html"); ?>|
 |Perl|	print "Content-type: text/html\n\n";|
 
-Content-Type 의 종류.
+#Content-Type 의 종류.
 
 1) Multipart Related MIME 타입
   - Content-Type: Multipart/related <-- 기본형태
