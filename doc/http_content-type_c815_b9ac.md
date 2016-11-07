@@ -4,7 +4,8 @@
 
 언어에 따른 선언 방식
 
-| ㅁ | ㅠ |
+
+|  |  |
 |--|--|
 |ASP|	<% Response.ContentType = "text/html" %>|
 |JSP|	<%@ page contentType="text/html" %>|
