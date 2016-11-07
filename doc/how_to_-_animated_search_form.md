@@ -18,7 +18,7 @@ CSS와 애니메이션 검색 폼을 작성하는 방법에 대해 알아봅니�
 
 ### Example
 
-```html
+```css
 .input[type=text] {
     width: 130px;
     -webkit-transition: width 0.4s ease-in-out;
