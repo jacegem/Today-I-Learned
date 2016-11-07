@@ -10,7 +10,7 @@ CSS와 애니메이션 검색 폼을 작성하는 방법에 대해 알아봅니�
 
 ### Example
 
-```HTML
+```html
 <input type="text" name="search" placeholder="Search..">
 ```
 
