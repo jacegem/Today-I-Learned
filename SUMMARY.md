@@ -22,4 +22,5 @@
 * [GLOSSARY](glossary.md)
 * [Macbook Pro 2016](macbook_pro_2016.md)
 * [방통대 편입학](doc/bc29_d1b5_b300_d3b8_c785_d559.md)
+* 검색영역 추가
 
