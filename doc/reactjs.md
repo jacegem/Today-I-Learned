@@ -277,6 +277,7 @@ let result = numbers.map((num)=>{
 ### 컴포넌트 매핑
 
 Links:
+
 - http://slides.com/minjunkim-1/deck/#/12 (강의에서 사용되는 슬라이드)
 - http://bit.ly/ReactCodePen (코드펜 새 React 프로젝트)
 - http://codepen.io/velopert/pen/JKxKay (컴포넌트 매핑 예제 코드)
