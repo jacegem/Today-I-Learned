@@ -276,8 +276,20 @@ let result = numbers.map((num)=>{
 
 ### 컴포넌트 매핑
 
+```javascript
+class Contact extends React.Component{
+  render(){
+    return (
+      <div>
+        <div>Abet 010-0000-2222</div>
+        <div>Bbet 010-0000-2222</div>
+        <div>Cbet 010-0000-2222</div>
+      </div>
+    )
+  }
+}
 
-
+```
 
 
 
