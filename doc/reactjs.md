@@ -276,6 +276,15 @@ let result = numbers.map((num)=>{
 
 ### 컴포넌트 매핑
 
+Links:
+- http://slides.com/minjunkim-1/deck/#/12 (강의에서 사용되는 슬라이드)
+- http://bit.ly/ReactCodePen (코드펜 새 React 프로젝트)
+- http://codepen.io/velopert/pen/JKxKay (컴포넌트 매핑 예제 코드)
+- https://developer.mozilla.org/ko/docs… (자바스크립트 배열의 Map 메소드)
+- https://developer.mozilla.org/en-US/d… (자바스크립트 Arrow function)
+- http://es6console.com/ (ES6 – ES5 변환)
+
+
 ```javascript
 class ContactInfo extends React.Component{
   render(){
@@ -298,6 +307,13 @@ class Contact extends React.Component{
   }
 
   render(){
+    const mapToComponet = (data) => {
+      return data.map((contact, i) => {
+        return (
+          <ContactInfo contact ={contact} key={i} />;
+        )
+      })
+    };
     return (
       <div>
         <div>Abet 010-0000-2222</div>
@@ -307,9 +323,17 @@ class Contact extends React.Component{
     )
   }
 }
-
 ```
 
+`const` 변할일이 없는 값을 지정
+
+```javascript
+return(
+  <div>
+    {mapToComponent(this.state.contactData)}
+  </div>
+)
+```
 
 
 
