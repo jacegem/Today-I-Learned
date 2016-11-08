@@ -1,23 +1,22 @@
- Summary
-
+# Summary
 
 * MEDIA
-  * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
+   * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
 * [HTML](doc/html.md)
-  * [HTML <input> checked Attribute](doc/html_input_checked_attribute.md)
-  * [How TO - Animated Search Form](doc/how_to_-_animated_search_form.md)
-  * [HTML Search Box](doc/html_search_box.md)
+   * [HTML <input> checked Attribute](doc/html_input_checked_attribute.md)
+   * [How TO - Animated Search Form](doc/how_to_-_animated_search_form.md)
+   * [HTML Search Box](doc/html_search_box.md)
 * [UNREAL ENGINE](doc/unreal_engine.md)
-  * [Android Works 설치](doc/android_works_c124_ce58.md)
+   * [Android Works 설치](doc/android_works_c124_ce58.md)
 * [Unity](doc/unity.md)
-  * [[Unity] Tutorials - Roll-a-Ball](doc/[unity]_tutorials_-_roll-a-ball.md)
+   * [[Unity] Tutorials - Roll-a-Ball](doc/[unity]_tutorials_-_roll-a-ball.md)
 * [Postgresql Documentation](doc/postgresql_documentation.md)
-  * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
-  * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
+   * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
+   * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](gitbook.md)
-  * [Gitbook Plugin](doc/gitbook_plugin.md)
+   * [Gitbook Plugin](doc/gitbook_plugin.md)
 * Shopping
-  * [Macbook Pro 2016](doc/macbook_pro_2016.md) 
+   * [Macbook Pro 2016](doc/macbook_pro_2016.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
@@ -28,8 +27,4 @@
 * [Tags](tags.md)
 * [GLOSSARY](glossary.md)
 * [방통대 편입학](doc/bc29_d1b5_b300_d3b8_c785_d559.md)
-* [검색영역 추가](doc/ac80_c0c9_c601_c5ed_cd94_ac00.md)
-
-
-
 
