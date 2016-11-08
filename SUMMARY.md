@@ -27,7 +27,6 @@
 * [교재:데이터베이스 성능향상을 위한 데이터모델링 실무](doc/ad50c7ac3a_b370_c774_d130_bca0_c774_c2a4_c131_b2a_.md)
 * [Tags](tags.md)
 * [GLOSSARY](glossary.md)
-
 * [방통대 편입학](doc/bc29_d1b5_b300_d3b8_c785_d559.md)
 * [검색영역 추가](doc/ac80_c0c9_c601_c5ed_cd94_ac00.md)
 
