@@ -277,7 +277,26 @@ let result = numbers.map((num)=>{
 ### 컴포넌트 매핑
 
 ```javascript
+class ContactInfo extends React.Component{
+  render(){
+    return (
+      <div>{this.props.contact.name} {this.props.contact.phone}</div>
+    )
+  }
+}
+
 class Contact extends React.Component{
+  constructor(props){
+    super(props);
+    this.state = {
+      contactData : {
+        {name:'Abet', phone:'010-0000-2222'},
+        {name:'Bbet', phone:'010-0000-2222'},
+        {name:'Cbet', phone:'010-0000-2222'}
+      }
+    }
+  }
+
   render(){
     return (
       <div>
