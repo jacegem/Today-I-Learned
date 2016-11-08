@@ -274,6 +274,8 @@ let result = numbers.map((num)=>{
 
 `arrow function`(...) => {...}
 
+### 컴포넌트 매핑
+
 
 
 
