@@ -354,6 +354,22 @@ Links:
 - React Project 만들기 텍스트 강좌: https://velopert.com/814
 - React 텍스트 강좌 목록: https://velopert.com/reactjs-tutorials
 
+```
+c:\>git --version
+git version 2.10.1.windows.1
+
+c:\>node -v
+v6.9.1
+```
+
+### Global Dependency 설치
+
+```
+sudo npm install -g webpack webpack-dev-server
+```
+
+1. `webpack`: 브라우저 위에서 import(require)를 할 수 있게 해주고 자바스크립트 파일들을 하나로 합쳐줍니다. 
+2. `webpack-dev-server`: 별도의 서버를 구축하지 않고도 static 파일을 다루는 웹서버를 열 수 있으며 hot-loader 를 통하여 코드가 수정 될 때마다 자동으로 리로드 되게 할 수 있습니다. 
 
 
 
