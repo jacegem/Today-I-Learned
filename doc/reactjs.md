@@ -263,6 +263,18 @@ arr.map(callback, [thisArg])
   - array 메소드가 불려진 배열
 - thisArg (선택항목) callback 함수 내부에서 사용 할 this 값을 설정
 
+```javascript
+/* ES6 Syntax */
+let numbers = [1,2,3,4,5];
+
+let result = numbers.map((num)=>{
+  return num*num;
+})
+```
+
+`arrow function`(...) => {...}
+
+
 
 
 
