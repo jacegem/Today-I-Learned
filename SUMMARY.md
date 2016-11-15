@@ -18,7 +18,7 @@
    * [Gitbook Plugin](doc/gitbook_plugin.md)
 * [Shopping](doc/shopping.md)
    * [Macbook Pro 2016](doc/macbook_pro_2016.md)
-* [브루스 테이트의 세블 랭귀지](doc/be0c_b8e8_c2a4_d14c_c774_d2b8_c758_c138_be14_b7ad_.md)
+* [브루스 테이트의 세블 랭귀지](doc/be0c_b8e8.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
