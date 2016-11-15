@@ -14,7 +14,7 @@
 * [Postgresql Documentation](doc/postgresql_documentation.md)
    * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
    * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
-* [Gitbook](gitbook.md)
+* [Gitbook](doc/gitbook.md)
    * [Gitbook Plugin](doc/gitbook_plugin.md)
 * [Shopping](doc/shopping.md)
    * [Macbook Pro 2016](doc/macbook_pro_2016.md)
