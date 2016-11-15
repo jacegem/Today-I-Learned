@@ -16,7 +16,7 @@
    * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](gitbook.md)
    * [Gitbook Plugin](doc/gitbook_plugin.md)
-* Shopping
+* [Shopping](doc/shopping.md)
    * [Macbook Pro 2016](doc/macbook_pro_2016.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
