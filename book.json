@@ -1,8 +1,8 @@
 {
     "title": "TODAY I LEARNED"
-    , "plugins": ["google-adsense", "disqus", "tags", "navigator", "ad", "echarts", "puml", "youtube"]
+    , "plugins": ["adsense", "disqus", "tags", "navigator", "ad", "echarts", "puml", "youtube"]
     , "pluginsConfig": {
-        "ads": {
+        "adsense": {
           "client": "ca-pub-9184373525576918",
           "slot": "1959714988",
           "format": "auto",
