@@ -35,11 +35,12 @@ Each value is visited once, except in the case when it was deleted and re-added 
 
 forEach executes the callback function once for each element in the Map object; it does not return a value.
 
-ExamplesEDIT
-Printing the contents of a Map object
+## Examples
+### Printing the contents of a Map object
 
 The following code logs a line for each element in an Map object:
 
+```javascript
 function logMapElements(value, key, map) {
     console.log("m[" + key + "] = " + value);
 }
@@ -48,16 +49,21 @@ new Map([["foo", 3], ["bar", {}], ["baz", undefined]]).forEach(logMapElements);
 // "m[foo] = 3"
 // "m[bar] = [object Object]"
 // "m[baz] = undefined"
-SpecificationsEDIT
+```
+
+## Specifications
+
 Specification	Status	Comment
 ECMAScript 2015 (6th Edition, ECMA-262)
 The definition of 'Map.prototype.forEach' in that specification.	Standard	Initial definition.
 ECMAScript 2017 Draft (ECMA-262)
 The definition of 'Map.prototype.forEach' in that specification.	Draft	 
-Browser compatibilityEDIT
+
+## Browser compatibility
 Desktop Mobile
 Feature	Chrome	Firefox (Gecko)	Internet Explorer	Opera	Safari
 Basic support	38	25.0 (25.0)	11	25	7.1
-See alsoEDIT
+
+## See also
 Array.prototype.forEach()
 Set.prototype.forEach()
