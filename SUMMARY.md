@@ -33,5 +33,5 @@
 * [react.js](doc/reactjs.md)
 * [ONOFFMIX](doc/onoffmix.md)
 * Translate
-   * [javascript] Map.prototype.forEach()
+   * [[javascript] Map.prototype.forEach()](doc/[javascript]_mapprototypeforeach.md)
 
