@@ -21,13 +21,14 @@ undefined.
 
 ## 설명
 
-The forEach method executes the provided callback once for each key of the map which actually exist. It is not invoked for keys which have been deleted. However, it is executed for values which are present but have the value undefined.
+forEach 함수는 맵에 실제로 존재하는 각 키 마다 제공된 콜백에 의해 실행된다. 지워진 키에 대해서는 호출되지 않는다. 그러나 값은 존재하고 undefined 인 경우에도 실해된다. 
 
-callback is invoked with three arguments:
+콜백은 세가지 파라미터와 함께 호출된다. 
 
-the element value
-the element key
-the Map object being traversed
+- 요소 값
+- 요소 키
+- 전달된 맵 객체
+
 If a thisArg parameter is provided to forEach, it will be passed to callback when invoked, for use as its this value.  Otherwise, the value undefined will be passed for use as its this value.  The this value ultimately observable by callback is determined according to the usual rules for determining the this seen by a function.
 
 Each value is visited once, except in the case when it was deleted and re-added before forEach has finished. callback is not invoked for values deleted before being visited. New values added before forEach has finished will be visited.
