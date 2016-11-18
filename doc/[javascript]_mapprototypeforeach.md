@@ -1,0 +1,2 @@
+# [javascript] Map.prototype.forEach()
+
