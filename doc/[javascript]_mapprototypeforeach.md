@@ -1,6 +1,6 @@
 # [javascript] Map.prototype.forEach()
 
-The forEach() method executes a provided function once per each key/value pair in the Map object, in insertion order.
+~~The forEach() method executes a provided function once per each key/value pair in the Map object, in insertion order.~~
 
 forEach() 함수는 입력한 순서에 따라 맵 오브젝트안에 있는 각각 키/값 쌍을 제공하는 기능을 실행합니다. 
 
