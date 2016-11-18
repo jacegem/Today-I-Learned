@@ -1,22 +1,26 @@
 # [javascript] Map.prototype.forEach()
 
-~~The forEach() method executes a provided function once per each key/value pair in the Map object, in insertion order.~~
-
 forEach() 함수는 입력한 순서에 따라 맵 오브젝트안에 있는 각각 키/값 쌍을 제공하는 기능을 실행합니다. 
 
 ## 문법
+```javascript
 myMap.forEach(callback[, thisArg])
-Parameters
+```
+
+### 파라미터
 
 callback
-Function to execute for each element.
+: 각 요소들을 실행할 함수
+
 thisArg
-Value to use as this when executing callback.
-Return value
+: 콜백함수를 실행할 때 사용할 값
+
+### Return value
 
 undefined.
 
-DescriptionEDIT
+## 설명
+
 The forEach method executes the provided callback once for each key of the map which actually exist. It is not invoked for keys which have been deleted. However, it is executed for values which are present but have the value undefined.
 
 callback is invoked with three arguments:
