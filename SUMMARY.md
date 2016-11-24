@@ -35,4 +35,5 @@
 * [Site](doc/site.md)
 * [react.js](doc/reactjs.md)
 * [ONOFFMIX](doc/onoffmix.md)
+* Trading
 
