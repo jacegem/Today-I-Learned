@@ -35,6 +35,6 @@
 * [Site](doc/site.md)
 * [react.js](doc/reactjs.md)
 * [ONOFFMIX](doc/onoffmix.md)
-* Trading
+* [Trading](doc/trading.md)
    * 사이보스 트레이더 개념잡기 - 대신증권
 
