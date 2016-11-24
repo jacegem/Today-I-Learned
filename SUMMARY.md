@@ -2,6 +2,10 @@
 
 * [WRNDS]
    * [브루스 테이트의 세븐 랭귀지](doc/be0c_b8e8.md)
+* Translate
+   * [[javascript] Map.prototype.forEach()](doc/[javascript]_mapprototypeforeach.md)
+* Javascript
+   * [Leaflet.TileLayer](doc/leaflettilelayer.md)
 * [MEDIA](doc/media.md)
    * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
 * [HTML](doc/html.md)
@@ -32,8 +36,5 @@
 * [Site](doc/site.md)
 * [react.js](doc/reactjs.md)
 * [ONOFFMIX](doc/onoffmix.md)
-* Translate
-   * [[javascript] Map.prototype.forEach()](doc/[javascript]_mapprototypeforeach.md)
-* Javascript
-   * [Leaflet.TileLayer](doc/leaflettilelayer.md)
+
 
