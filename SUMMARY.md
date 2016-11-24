@@ -35,5 +35,5 @@
 * Translate
    * [[javascript] Map.prototype.forEach()](doc/[javascript]_mapprototypeforeach.md)
 * Javascript
-   * Leaflet.TileLayer
+   * [Leaflet.TileLayer](doc/leaflettilelayer.md)
 
