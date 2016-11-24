@@ -1,5 +1,7 @@
 # Leaflet.TileLayer
 
+출처 : http://leafletjs.com/reference.html#tilelayer
+
 # TileLayer
 
 맵상에서 타일 레이러를 불러오고 표시하는데 사용합니다. ILayer 인터페이스를 구현합니다. 
