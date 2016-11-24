@@ -12,3 +12,9 @@
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar'}).addTo(map);
 ```
 
+## 생성
+
+| 생성 | 설명 |
+| -- | -- |
+| L.tileLayer( <String> urlTemplate, <TileLayer options> options? ) | 주어진 URL 템플릿로 타일 레이어 오브젝트와 옵션 오브젝트를 초기화합니다.  |
+
