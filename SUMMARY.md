@@ -1,6 +1,6 @@
 # Summary
 
-* [WRNDS]
+* WRNDS
    * [브루스 테이트의 세븐 랭귀지](doc/be0c_b8e8.md)
 * Javascript
    * [Leaflet.TileLayer](doc/leaflettilelayer.md)
