@@ -2,6 +2,8 @@
 
 * [WRNDS](doc/wrnds.md)
     * [브루스 테이트의 세븐 랭귀지](doc/be0c_b8e8.md)
+* [Introduction](README.md)
+* [맥북 어플리케이션 설치](맥북-어플리케이션-설치.md)
 * Javascript
     * [Leaflet.TileLayer](doc/leaflettilelayer.md)
     * [Map.prototype.forEach\(\)](doc/[javascript]_mapprototypeforeach.md)
@@ -21,8 +23,6 @@
     * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](doc/gitbook.md)
     * [Gitbook Plugin](doc/gitbook_plugin.md)
-* [Shopping](doc/shopping.md)
-    * [Macbook Pro 2016](doc/macbook_pro_2016.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
@@ -37,5 +37,4 @@
 * [ONOFFMIX](doc/onoffmix.md)
 * [Trading](doc/trading.md)
     * [사이보스 트레이더 개념잡기 - 대신증권](doc/c0ac_c774_bcf4_c2a4_d2b8_b808_c774_b354_ac1c_b150_.md)
-* [맥북 어플리케이션 설치](맥북-어플리케이션-설치.md)
 
