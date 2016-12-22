@@ -1,28 +1,31 @@
 # Summary
 
+* [Introduction](https://www.gitbook.com/book/jacegem/today-i-learned/edit#)
+
 * [WRNDS](doc/wrnds.md)
-    * [브루스 테이트의 세븐 랭귀지](doc/be0c_b8e8.md)
-* [Introduction](README.md)
+
+* * [브루스 테이트의 세븐 랭귀지](doc/be0c_b8e8.md)
 * [맥북 어플리케이션 설치](맥북-어플리케이션-설치.md)
+
 * Javascript
-    * [Leaflet.TileLayer](doc/leaflettilelayer.md)
-    * [Map.prototype.forEach\(\)](doc/[javascript]_mapprototypeforeach.md)
+  * [Leaflet.TileLayer](doc/leaflettilelayer.md)
+  * [Map.prototype.forEach\(\)](doc/[javascript]_mapprototypeforeach.md)
 * [MEDIA](doc/media.md)
-    * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
+  * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
 * [HTML](doc/html.md)
-    * [HTML  checked Attribute](doc/html_input_checked_attribute.md)
-    * [How TO - Animated Search Form](doc/how_to_-_animated_search_form.md)
-    * [HTML Search Box](doc/html_search_box.md)
+  * [HTML  checked Attribute](doc/html_input_checked_attribute.md)
+  * [How TO - Animated Search Form](doc/how_to_-_animated_search_form.md)
+  * [HTML Search Box](doc/html_search_box.md)
 * [UNREAL ENGINE](doc/unreal_engine.md)
-    * [Android Works 설치](doc/android_works_c124_ce58.md)
+  * [Android Works 설치](doc/android_works_c124_ce58.md)
 * [Unity](doc/unity.md)
-    * [\[Unity\] Tutorials - Roll-a-Ball](doc/[unity]_tutorials_-_roll-a-ball.md)
-    * [유니티 게임 제작 입문](doc/cc453a_c720_b2c8_d2f0_ac8c_c784_c81c_c791_c785_bb3.md)
+  * [\[Unity\] Tutorials - Roll-a-Ball](doc/[unity]_tutorials_-_roll-a-ball.md)
+  * [유니티 게임 제작 입문](doc/cc453a_c720_b2c8_d2f0_ac8c_c784_c81c_c791_c785_bb3.md)
 * [Postgresql Documentation](doc/postgresql_documentation.md)
-    * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
-    * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
+  * [Postgresql Numeric Types](doc/postgresql_numeric_types.md)
+  * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](doc/gitbook.md)
-    * [Gitbook Plugin](doc/gitbook_plugin.md)
+  * [Gitbook Plugin](doc/gitbook_plugin.md)
 * [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
@@ -36,5 +39,7 @@
 * [react.js](doc/reactjs.md)
 * [ONOFFMIX](doc/onoffmix.md)
 * [Trading](doc/trading.md)
-    * [사이보스 트레이더 개념잡기 - 대신증권](doc/c0ac_c774_bcf4_c2a4_d2b8_b808_c774_b354_ac1c_b150_.md)
+  * [사이보스 트레이더 개념잡기 - 대신증권](doc/c0ac_c774_bcf4_c2a4_d2b8_b808_c774_b354_ac1c_b150_.md)
+
+
 
