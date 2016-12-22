@@ -22,7 +22,6 @@
     * [Postgresql Mathematical Functions and Operators](doc/postgresql_mathematical_functions_and_operators.md)
 * [Gitbook](doc/gitbook.md)
     * [Gitbook Plugin](doc/gitbook_plugin.md)
-* [Introduction](README.md)
 * [First Chapter](doc/chapter1.md)
 * [file upload](file-upload.md)
 * [MOOC](doc/mooc.md)
