@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](https://www.gitbook.com/book/jacegem/today-i-learned/edit#)
+* [Introduction](Introduction.md)
 
 * [WRNDS](doc/wrnds.md)
 
@@ -8,8 +8,10 @@
 * [맥북 어플리케이션 설치](맥북-어플리케이션-설치.md)
 
 * Javascript
+
   * [Leaflet.TileLayer](doc/leaflettilelayer.md)
   * [Map.prototype.forEach\(\)](doc/[javascript]_mapprototypeforeach.md)
+
 * [MEDIA](doc/media.md)
   * [개발자가 갖추어야 할 9가지 기술](doc/ac1c_bc1c_c790_ac00_ac16_cd94_c5b4_c57c_d560_9_ac0.md)
 * [HTML](doc/html.md)
