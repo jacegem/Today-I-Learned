@@ -27,11 +27,11 @@
     * [MOOC](doc/mooc.md)
     * [데이터베이스 성능향상을 위한 데이터모델링 실무](doc/ad50c7ac3a_b370_c774_d130_bca0_c774_c2a4_c131_b2a_.md)
     * [AXISJ GRID PageNo](doc/axisj_grid_pageno.md)
-    * [맥북 어플리케이션 설치](맥북-어플리케이션-설치.md)
+    * [맥북 어플리케이션 설치](doc/맥북-어플리케이션-설치.md)
     * [react.js](doc/reactjs.md)
     * [ONOFFMIX](doc/onoffmix.md)
+    * [블루투스 이어폰](doc/블루투스-이어폰.md)
     * [UNREAL ENGINE](doc/unreal_engine.md)
         * [Android Works 설치](doc/android_works_c124_ce58.md)
-* [블루투스 이어폰](블루투스-이어폰.md)
 * [Tags](tags.md)
 
