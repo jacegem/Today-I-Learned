@@ -34,4 +34,5 @@
     * [UNREAL ENGINE](doc/unreal_engine.md)
         * [Android Works 설치](doc/android_works_c124_ce58.md)
 * [zoneminder](doc/zoneminder.md)
+* [10 Minutes to pandas](doc/10-minutes-to-pandas.md)
 
