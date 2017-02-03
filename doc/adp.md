@@ -2,10 +2,10 @@
 
 {% mermaid %}
 gantt
-        dateFormat  YYYY.MM.DD
+        dateFormat  YYYY-MM-DD
         title DO! ADP
         section ADP 일정
-        Ⅰ. 데이터의 이해         : 2017.02.03, 10d
+        Ⅰ. 데이터의 이해         : Active, 2017-02-03, 10d
         Active task              :  10d
         Future task              :  10d
         Future task2             :  10d
