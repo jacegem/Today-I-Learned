@@ -2,14 +2,14 @@
 
 {% mermaid %}
 gantt
-        dateFormat  YYYY-MM-DD
-        title DO! ADP
-        section 데이터 분석 전문가 가이드
-        Ⅰ. 데이터의 이해         : Active, 2017-02-05, 10d
-        Ⅱ. 데이터 처리 기술 이해              :  10d
-        Ⅲ. 데이터 분석 기획              :  10d
-        Ⅳ. 데이터 분석             :  10d
-        Ⅴ. 데이터 시각화 : 10d
+dateFormat  YYYY-MM-DD
+title DO! ADP
+section 데이터 분석 전문가 가이드
+  Ⅰ. 데이터의 이해         : Active, 2017-02-05, 10d
+  Ⅱ. 데이터 처리 기술 이해              :  10d
+  Ⅲ. 데이터 분석 기획              :  10d
+  Ⅳ. 데이터 분석             :  10d
+  Ⅴ. 데이터 시각화 : 10d
 {% endmermaid %}
 
 
