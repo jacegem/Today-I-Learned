@@ -6,9 +6,10 @@ gantt
         title DO! ADP
         section ADP 일정
         Ⅰ. 데이터의 이해         : Active, 2017-02-01, 10d
-        Active task              :  10d
-        Future task              :  10d
-        Future task2             :  10d
+        Ⅱ. 데이터 처리 기술 이해              :  10d
+        Ⅲ. 데이터 분석 기획              :  10d
+        Ⅳ. 데이터 분석             :  10d
+        Ⅴ. 데이터 시각화 : 10d
 {% endmermaid %}
 
 
