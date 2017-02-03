@@ -4,7 +4,7 @@
 gantt
         dateFormat  YYYY-MM-DD
         title DO! ADP
-        section ADP 일정
+        section 데이터 분석 전문가 가이드
         Ⅰ. 데이터의 이해         : Active, 2017-02-05, 10d
         Ⅱ. 데이터 처리 기술 이해              :  10d
         Ⅲ. 데이터 분석 기획              :  10d
