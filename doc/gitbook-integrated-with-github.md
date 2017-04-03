@@ -31,3 +31,6 @@ Gitbook 에서 유투브 플러그인 사용하는데 이 부분이 문제가 �
 GiHub Pages 설정중에서 Source 를 `None` 으로 변경합니다. 
 
 ![](https://goo.gl/fdTyeO)
+
+변경 이후 꼭 `Save` 버튼을 클릭합니다. 
+
