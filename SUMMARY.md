@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [2017](doc/2017.md)
+  * [django](doc/django.md)
+  * [Synology Django](doc/synology-django.md)
   * [Gitbook 과 GitHub 연동](doc/gitbook-integrated-with-github.md)
   * [Google App Engine](doc/google-app-engine.md)
   * [Scala](doc/scala.md)
