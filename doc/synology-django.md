@@ -75,7 +75,10 @@ django를 실행합니다.
 > python manage.py runserver 0.0.0.0:9000
 ```
 
+이후, django 사용법은 [이곳](https://docs.djangoproject.com/en/1.10/intro/tutorial01/)에서 확인할 수 있습니다. 
+
 ### 출처
+
 - https://forum.synology.com/enu/viewtopic.php?t=59837
 - https://docs.djangoproject.com/en/1.10/intro/tutorial01/
 
