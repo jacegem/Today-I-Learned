@@ -1,8 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
+* [Windows에 pyrebase 설치](doc/install-pyrebae-windows.md)
+* [leaflet get center](doc/leaflet-get-center.md)
 * [PITCHME 테스트](doc/PITCHME.md)
 * [PostGIS 공간 쿼리](doc/postgis-spatial-query.md)
+* [PostGIS 공간 쿼리 - 마이바티스](doc/postgis-spatial-query-mybatis.md)
 * [v-model 한글 사용 문제](doc/v-model-hangul-problem.md)
 * [Python 윈도우 서비스로 실행](doc/run-python-windows-service.md)
 * [Torrent RSS](doc/torrent-rss.md)
