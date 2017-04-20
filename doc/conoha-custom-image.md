@@ -4,8 +4,6 @@
 
 Ubuntu 64비트로 설치 하였습니다. root 접속
 
-![](https://goo.gl/IADWkH)
-
 `Login incorrect` 발생시, `텍스트 전송`을 통해서 암호를 입력합니다.
 
 ### vsftpd 패키지 설치
