@@ -53,32 +53,18 @@ apt-get install apache2
 
 아이피로 접속해서 웹 페이지가 정상적으로 나오는지 확인합니다.
 
-전송한 ISO 파일을 이동한다.
+
+## ISO 전송하기
 
 ```sh
-mv Windows.ISO /var/www/html
+cd /var/www/html
+wget [WINDOWS.ISO_URL]
 ```
 
-iso 파일의 권한을 변경한다
-
-```sh
-chmod o+r Windows.iso
-```
-
-## conoha-iso 다운로드
-
-```sh
-conoha-iso.exe download -i http://domain/Windows.iso
-
-time="2017-04-20T23:45:24+09:00" level=info msg="Download request was accepted."
-```
-
-
-
+url 정보가 입력되지 않으면 `텍스트 전송` 메뉴를 통해서 입력합니다. 
 
 
 ## 출처
 - http://goproprada.tistory.com/189
 - https://blog.lael.be/post/73
-- https://github.com/hironobu-s/conoha-iso
-- http://badspell.tistory.com/13
+
