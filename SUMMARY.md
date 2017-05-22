@@ -9,7 +9,7 @@
 * [django-celery](doc/django-celery.md)
 * [모두를 위한 머신러닝 - Lec 00 - Machine/Deep learning 수업의 개요와 일정](doc/ml-lec-00.md)
 * [모두를 위한 머신러닝 - ML lab 01 - TensorFlow의 설치및 기본적인 operations (new)](doc/ml-labc-01.md)
-* [jsp include](doc/jsp-include.jsp)
+* [jsp include](doc/jsp-include.md)
 * [tesseract windows](doc/tesseract-windows.md)
 * [OpenCV Crop Frame and Save](doc/opencv-crop-frame-and-save.md)
 * [Vue.js Start](doc/vue-js-start.md)
