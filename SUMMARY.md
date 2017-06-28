@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-<<<<<<< HEAD
 * [eclipse-formatting-span](doc/eclipse-formatting-span.md)
 * [dokuwiki-changes-plugin](doc/dokuwiki-changes-plugin.md)
 * [dokuwiki-snippet](doc/dokuwiki-snippet.md)
@@ -15,10 +14,8 @@
 * [block-chain](doc/block-chain.md)
 * [django-import-error-update-contenttypes](doc/django-import-error-update-contenttypes.md)
 * [JSP list to javascript](doc/jsp-list-to-javascript.md)
-=======
 * [doc](doc.md)
   * [React 시작해보기](doc/react-c2dc-c791-d574-bcf4-ae30.md)
->>>>>>> 6e79f2d349fa8770368e9db7fd80f37a7d9dff90
 * [Android 사진 동영상 불러오기](doc/android-open-picture-movie.md)
 * [Synology에서 자동 다운로드된 디렉토리 삭제](doc/synology-delete-directory.md)
 * [SpreadSheet Lookup](doc/spreadsheet-lookup.md)
