@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [장고의 설계 원칙](doc/django-design-philosophy.md)
 * [eclipse-formatting-span](doc/eclipse-formatting-span.md)
 * [dokuwiki-changes-plugin](doc/dokuwiki-changes-plugin.md)
 * [dokuwiki-snippet](doc/dokuwiki-snippet.md)
